@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshwar Sai Yarra</h1>
 <h3 align="center">A passionate coder from Mandapeta, Andhra Pradesh</h3>
 
-<img align=“right” alt=“coding-img” width=“400” src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif” >
+<img align="right" alt="coding-img" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eswarsaiyarra2602&label=Profile%20views&color=0e75b6&style=flat" alt="eswarsaiyarra2602" /> </p>
 
